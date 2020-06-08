@@ -1,15 +1,15 @@
 # Predictive-Modeling-using-SPSS
 Predictive Modeling Using Large-Scale Data Files
 
-In this project, I engaged in building predictive models for customer behavior to assist managerial decisions and recommend actions. I selected sereval variables(Order Number, Recency, Quantity, Pay Method) and find out their qualatative relationships with Profit. Then base on what I found to give business manager some suggestions.
+In this project, I engaged in building predictive models for customer behavior to assist managerial decisions and recommend actions. I selected several variables(Order Number, Recency, Quantity, Pay Method) and found out their qualatative relationships with Profit. Then based on what I found to give the business manager some suggestions.
 
-Following are the steps(data from Customer segmentation project):
+The following are the steps(data from Customer segmentation project):
 
 a- Using my analysis in Customer segmentation project, choose two customer segments that have little similarity with each other.
 
 b- Choose two dependent variables that represent behavior that companies are important to the company including revenue or profit.
 
-c- For each dependent variable I choosed 5 variables that I believe may be used as predictors of these variables and included a dummy-coded variable.
+c- For each dependent variable I chose 5 variables that I believe may be used as predictors of these variables and included a dummy-coded variable.
 
 d- Develop a predictive model using regression analysis for each dependent variable.
 
