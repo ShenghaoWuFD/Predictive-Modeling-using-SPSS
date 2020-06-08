@@ -7,9 +7,7 @@ a- Using my analysis in Customer project, choose two customer segments that have
 
 b- Choose two dependent variables that represent behavior that companies are important to the company including revenue or profit.
 
-c- For each dependent variable I choosed 5 variables that I believe may be used as predictors of these variables.
-
-a. Include a dummy-coded variable.
+c- For each dependent variable I choosed 5 variables that I believe may be used as predictors of these variables and included a dummy-coded variable.
 
 d- Develop a predictive model using regression analysis for each dependent variable.
 
